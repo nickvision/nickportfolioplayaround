@@ -1,7 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900,300,900italic);
 body {
 
-
+  MARGIN: 400PX;
+  MAX-WIDTH: 80%;
   font-family: 'Lato', sans-serif;
   background: #fff;
   font-size: 14px;
